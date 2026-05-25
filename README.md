@@ -1,4 +1,6 @@
 ## Ritvik Chaturvedi
 Student, Developer  
   
-[![Ritvik's GitHub stats](https://github-readme-stats-green-five-69.vercel.app/api?username=chaturchatur)](https://github.com/chaturchatur/github-readme-stats)
+![Ritvik's stats](https://your-project.vercel.app/api?username=chaturchatur&show_icons=true&theme=tokyonight)
+
+![Top langs](https://your-project.vercel.app/api/top-langs/?username=chaturchatur&layout=compact)
